@@ -145,7 +145,6 @@ def generateMap() :
   turtle.write("to generate a new round", font=("Arial", 20, "bold"))
   turtle.tracer(True)
 
-
 #generate locations
 def generateLocation() :
   for _ in range(n) :
