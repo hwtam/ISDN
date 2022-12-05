@@ -1,3 +1,5 @@
+#posted on https://github.com/hwtam/ISDN/blob/main/simulation%20final.py
+
 import turtle
 import random
 import time
